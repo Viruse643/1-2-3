@@ -1,0 +1,11 @@
+D:\Education\NumericalMethods\ChislMethod\bin\Debug\ChislMethod.exe.config
+D:\Education\NumericalMethods\ChislMethod\bin\Debug\ChislMethod.exe
+D:\Education\NumericalMethods\ChislMethod\bin\Debug\ChislMethod.pdb
+D:\Education\NumericalMethods\ChislMethod\obj\Debug\ChislMethod.csproj.AssemblyReference.cache
+D:\Education\NumericalMethods\ChislMethod\obj\Debug\ChislMethod.csproj.SuggestedBindingRedirects.cache
+D:\Education\NumericalMethods\ChislMethod\obj\Debug\ChislMethod.Form1.resources
+D:\Education\NumericalMethods\ChislMethod\obj\Debug\ChislMethod.Properties.Resources.resources
+D:\Education\NumericalMethods\ChislMethod\obj\Debug\ChislMethod.csproj.GenerateResource.cache
+D:\Education\NumericalMethods\ChislMethod\obj\Debug\ChislMethod.csproj.CoreCompileInputs.cache
+D:\Education\NumericalMethods\ChislMethod\obj\Debug\ChislMethod.exe
+D:\Education\NumericalMethods\ChislMethod\obj\Debug\ChislMethod.pdb
